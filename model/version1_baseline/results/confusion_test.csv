@@ -1,0 +1,6 @@
+,BRCA,COAD,KIRC,LUAD,PRAD
+cluster 0,0,15,0,0,0
+cluster 1,60,0,0,1,0
+cluster 2,0,0,0,0,27
+cluster 3,0,0,30,0,0
+cluster 4,0,1,0,27,0
